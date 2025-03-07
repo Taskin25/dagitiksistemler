@@ -93,3 +93,6 @@ Bu komut Docker Compose kullanarak aşağıdaki işlemleri gerçekleştirir:
 
 
 
+
+
+
